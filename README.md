@@ -2,7 +2,7 @@
 
 ## 설치 방법
 
-mmaction2 설치 아래 링크 참조
+mmaction2 설치 아래 링크 참조  
 (https://github.com/open-mmlab/mmaction2) 
 
 ## 개발환경
