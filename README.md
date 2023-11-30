@@ -11,7 +11,7 @@ google colab
 
 ## 내용
 
-SwinTransformer 모델의 동영상 버전인 videoSwin을 이용하여 
+SwinTransformer 모델의 동영상 버전인 videoSwin을 이용하여   
 입력된 동영상에서 사람이 수행하는 **버피테스트의 동작이 정확한지 부정확한지** 이진 분류(true, false)
 
 ## 특징
